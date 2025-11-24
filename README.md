@@ -90,6 +90,11 @@ HealthCareTracker/
 
 ### Sample Output 
 
+screenshots/output1.jpg
+screenshots/output2.jpg
+screenshots/output3.jpg
+screenshots/output4.jpg
+
 
 ---
 
