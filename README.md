@@ -4,7 +4,7 @@ A simple HealthCare Tracking System developed in Java using OOP concepts , custo
 
 This project allows the user to register a patient, enter multiple health records, and display the summary of all readings. 
 
-##Features
+## Features
 
 -Add patient details (name, age, problem )
 -Add multiple health records (temperature, heart rate, blood pressure, fever, cold etc. )
@@ -63,7 +63,7 @@ HealthCareTracker/
 
 ## How to Run the Program 
 
-###Using Command Line
+### Using Command Line
 
 1. Open a terminal and navigate to the project folder:
    ```bash
@@ -80,7 +80,7 @@ HealthCareTracker/
 
 
 
-###Using an IDE 
+### Using an IDE 
 
 1. Open the project in your IDE (Eclipse, IntelliJ, VS Code, etc.).
 2. Locate the class containing the main method.
